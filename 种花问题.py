@@ -6,6 +6,9 @@
 链接：https://leetcode-cn.com/problems/can-place-flowers
 '''
 
+#coding = utf-8
+#author: Zhenfei Yu
+
 class Solution(object):
     def canPlaceFlower(self, flowerbed, n):
         count = 0
